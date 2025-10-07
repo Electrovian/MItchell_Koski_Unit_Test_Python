@@ -1,2 +1,3 @@
 # unit-testing-assignment (6 sections)
-See each section's README for run instructions. Add photos to evidence/ as section1.jpg..section6.jpg.
+Can you check my code in sections that explains if i have an issues anywhere? im confused as this seems well way to bloody easy if this is the assignment thx in advance!
+
