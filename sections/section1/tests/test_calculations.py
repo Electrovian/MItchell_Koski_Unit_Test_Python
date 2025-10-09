@@ -7,11 +7,11 @@ class TestCalculations(unittest.TestCase):
 
 if __name__ == '__main__':
     result = unittest.main(exit=False)
-    print("\n✅ TEST RESULTS SUMMARY:")
+    print("\n TEST RESULTS SUMMARY:")
     print(f"Ran {result.result.testsRun} tests")
     print(f"Failures: {len(result.result.failures)}")
     print(f"Errors: {len(result.result.errors)}")
     if not result.result.failures and not result.result.errors:
-        print("✅ ALL TESTS PASSED SUCCESSFULLY!")
+        print("ALL TESTS PASSED SUCCESSFULLY!")
     else:
-        print("❌ SOME TESTS FAILED — CHECK ABOVE OUTPUT.")
+        print("SOME TESTS FAILED — CHECK ABOVE OUTPUT.")
